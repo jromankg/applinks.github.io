@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.konrad.androidapplinks",
+    "sha256_cert_fingerprints":
+    ["49:BC:36:D4:FD:8B:4A:DA:E4:2A:A4:35:1B:59:B3:03:14:22:5B:26:8B:AA:E1:61:14:0B:18:FA:5B:C5:77:DB"]
+  }
+}]
